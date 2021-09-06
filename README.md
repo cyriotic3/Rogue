@@ -6,7 +6,7 @@
 **ONLY WORKS WITH DARK MODE ENABLED!**
 
 
-# **changelog**
+# **Changelog**
 
 v3.0.2
 > changed `brand_new_560` from #101010 to #00000000 (transparent)
