@@ -3,6 +3,8 @@
 > bg: #101010 & #0d0d0d
 > accent: #a80820 & #ffffff
 
+![Preview](https://github.com/cyriotic3/Rogue/raw/main/RoguePreview.png)
+
 **ONLY WORKS WITH DARK MODE ENABLED!**
 
 
