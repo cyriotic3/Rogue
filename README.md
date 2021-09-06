@@ -12,6 +12,7 @@
 
 v3.0.2
 > changed `brand_new_560` from #101010 to #00000000 (transparent)
+
 > added `updater`
 
 v3.0.1
