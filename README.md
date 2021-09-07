@@ -7,7 +7,7 @@
 ## Colours
 
     bg: #101010 & #0d0d0d
-    accent: #a80820 & #ffffff
+    accent: #a80820
 
 ## Changelogs
 
