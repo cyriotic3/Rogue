@@ -11,7 +11,7 @@
 
 ## Changelogs
 
-**v3.1.0
+**v3.1.0**
 
     support Themer v3.0.0 new theme format
 
