@@ -13,7 +13,8 @@
 
 **v3.0.2**
 
-    changed brand_new_560 from #101010 to #00000000 (transparent)
+    changed brand_new_560 colour from #101010 to #00000000 (transparent)
+    changed mention_highlight colour from #19a80820 to #33a80820
     added updater
 
 **v3.0.1**
