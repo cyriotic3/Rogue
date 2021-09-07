@@ -11,6 +11,10 @@
 
 ## Changelogs
 
+**v3.1.0
+
+    support Themer v3.0.0 new theme format
+
 **v3.0.2**
 
     changed brand_new_560 colour from #101010 to #00000000 (transparent)
