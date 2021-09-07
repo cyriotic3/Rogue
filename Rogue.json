@@ -2,8 +2,8 @@
     "manifest": {
         "author": "cyriotic3",
         "name": "Rogue",
-        "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Rogue\/main\/Rogue.json",
-        "version": "3.0.2"
+        "updater": "https://raw.githubusercontent.com/cyriotic3/Rogue/main/Rogue.json",
+        "version": "3.1.0"
     },
     "background": {},
     "fonts": {},
