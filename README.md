@@ -11,9 +11,15 @@
 
 ## Changelogs
 
+**v.3.1.3**
+
+    added primary_dark_360
+    changed primary_dark_400 colour from #a9a9a9 to #878787
+    changed drawablecolor_ic_sidebar_notifications_off_dark_24dp colour from #868686 to #878787
+
 **v3.1.0**
 
-    support Themer v3.0.0 new theme format
+    changes the codes to Themer v3.0.0 new theme format
 
 **v3.0.2**
 
@@ -23,7 +29,7 @@
 
 **v3.0.1**
 
-    changed `drawablecolor_ic_sidebar_notifications_off_dark_24dp` colour from #282828 to #868686 (lighter grey)
+    changed drawablecolor_ic_sidebar_notifications_off_dark_24dp colour from #282828 to #868686 (lighter grey)
 
 **v3.0.0**
 
