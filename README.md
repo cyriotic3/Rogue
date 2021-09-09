@@ -11,6 +11,11 @@
 
 ## Changelogs
 
+**v3.1.7**
+
+    added statusbar, ic_direct_messege_header & ic_group_messege_header
+    changed primary_700 colour from #0d0d0d to #282828
+
 **v.3.1.3**
 
     added primary_dark_360
@@ -23,9 +28,9 @@
 
 **v3.0.2**
 
+    added updater
     changed brand_new_560 colour from #101010 to #00000000 (transparent)
     changed mention_highlight colour from #19a80820 to #33a80820
-    added updater
 
 **v3.0.1**
 
