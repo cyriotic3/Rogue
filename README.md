@@ -11,6 +11,10 @@
 
 ## Changelogs
 
+**v3.1.8**
+
+    added background (enable chat's transparency mode)
+
 **v3.1.7**
 
     added statusbar, ic_direct_messege_header & ic_group_messege_header
