@@ -2,10 +2,13 @@
     "manifest": {
         "name": "Rogue",
         "author": "cyriotic3",
-        "version": "3.1.7",
+        "version": "3.1.8",
         "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Rogue\/main\/Rogue.json"
     },
-    "background": {},
+    "background": {
+        "url": "https:\/\/i.ibb.co\/NTNJG0B\/Roguebg.png",
+        "overlay_alpha": 0
+    },
     "fonts": {},
     "simple_colors": {
         "input_background": -14145496,
