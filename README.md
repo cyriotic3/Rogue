@@ -14,6 +14,8 @@
 **v3.1.8**
 
     added background (enable chat's transparency mode)
+![the differences](https://raw.githubusercontent.com/cyriotic3/Rogue/main/v3.1.8BackgroundDifferences.png)
+
 
 **v3.1.7**
 
