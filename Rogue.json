@@ -2,7 +2,7 @@
     "manifest": {
         "name": "Rogue",
         "author": "cyriotic3",
-        "version": "3.1.8",
+        "version": "3.1.9",
         "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Rogue\/main\/Rogue.json"
     },
     "background": {
@@ -46,6 +46,7 @@
         "ic_sidebar_notifications_on_dark_24dp": -1,
         "ic_sidebar_pins_off_dark_24dp": -1,
         "ic_direct_message_header": -1,
-        "ic_group_message_header": -1
+        "ic_group_message_header": -1,
+        "ic_menu_24dp": -1
     }
 }
