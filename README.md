@@ -11,6 +11,10 @@
 
 ## Changelogs
 
+**v3.1.9**
+
+    added ic_menu_24dp
+
 **v3.1.8**
 
     added background (enable chat's transparency mode)
