@@ -2,7 +2,7 @@
     "manifest": {
         "name": "Rogue",
         "author": "cyriotic3",
-        "version": "3.1.9",
+        "version": "3.1.10",
         "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Rogue\/main\/Rogue.json"
     },
     "background": {
@@ -30,7 +30,8 @@
         "primary_dark_800": -15921907,
         "uikit_btn_bg_color_selector_red": -5765088,
         "uikit_btn_compound_color_selector_dark": -5765088,
-        "primary_dark_360": -7895161
+        "primary_dark_360": -7895161,
+        "uikit_settings_item_text_color_dark": -1
     },
     "drawable_tints": {
         "drawable_button_grey": -5765088,
