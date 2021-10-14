@@ -11,6 +11,12 @@
 
 ## Changelogs
 
+**v3.1.15**
+
+    added abc_tint_switch_track, uikit_settings_item_text_color_light & ic_sidebar_search_24dp
+    changed brand_new_560 back to its original color
+    fixed background's url, sorry about that
+
 **v3.1.10**
 
     added uikit_settings_item_text_color_dark
