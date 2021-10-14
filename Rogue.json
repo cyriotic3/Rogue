@@ -2,11 +2,12 @@
     "manifest": {
         "name": "Rogue",
         "author": "cyriotic3",
-        "version": "3.1.10",
-        "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Rogue\/main\/Rogue.json"
+        "version": "3.1.15",
+        "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Rogue\/main\/Rogue.json",
+        "license": " "
     },
     "background": {
-        "url": "https:\/\/i.ibb.co\/NTNJG0B\/Roguebg.png",
+        "url": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Rogue\/main\/bg.png",
         "overlay_alpha": 0
     },
     "fonts": {},
@@ -17,7 +18,7 @@
         "statusbar": -15921907
     },
     "colors": {
-        "brand_new_560": 16777215,
+        "brand_new_560": -10983950,
         "link": -5765088,
         "primary_700": -14145496,
         "primary_dark_200": -1,
@@ -31,7 +32,9 @@
         "uikit_btn_bg_color_selector_red": -5765088,
         "uikit_btn_compound_color_selector_dark": -5765088,
         "primary_dark_360": -7895161,
-        "uikit_settings_item_text_color_dark": -1
+        "uikit_settings_item_text_color_dark": -1,
+        "abc_tint_switch_track": -15724528,
+        "uikit_settings_item_text_color_light": -7895161
     },
     "drawable_tints": {
         "drawable_button_grey": -5765088,
@@ -48,6 +51,7 @@
         "ic_sidebar_pins_off_dark_24dp": -1,
         "ic_direct_message_header": -1,
         "ic_group_message_header": -1,
-        "ic_menu_24dp": -1
+        "ic_menu_24dp": -1,
+        "ic_sidebar_search_24dp": -1
     }
 }
