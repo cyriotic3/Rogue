@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview](https://github.com/cyriotic3/Rogue/raw/main/RoguePreview.png)
+![Preview](https://github.com/cyriotic3/Rogue/raw/main/RoguePreview2.png)
 
 ## Colours
 
