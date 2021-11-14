@@ -11,6 +11,12 @@
 
 ## Changelogs
 
+**v3.1.18**
+
+    changed statusbar from #0d0d0d to #00000000 (transparent)
+    changed primary_dark_800 from #0d0d0d to #101010 
+    changed uikit_settings_item_text_color_light from #878787 to #282828 
+
 **v3.1.15**
 
     added abc_tint_switch_track, uikit_settings_item_text_color_light & ic_sidebar_search_24dp
